@@ -1,0 +1,11 @@
+{
+  "name": "bharatjs",
+  "version": "1.0.0",
+  "main": "a npm package this will help you doing dsa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bharat Ruidas",
+  "license": "ISC",
+  "description": ""
+}
